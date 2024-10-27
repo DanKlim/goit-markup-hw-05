@@ -524,7 +524,9 @@ a {
         display: flex;
 }
 
-.sub-label {}
+.sub-label {
+        gap: 24px;
+}
 
 .label-text {
         font-weight: 500;
